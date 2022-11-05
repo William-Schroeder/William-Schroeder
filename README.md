@@ -1,5 +1,5 @@
 alr fuck it ill just make an actual readme
-<a href="https://william-schroeder.github.io/"><h1>William schroeder</h1></a>
+<a href="https://william-schroeder.github.io/">William schroeder</a>
  <p>im a programmer in middle school.</p>
 <h2>coding languages</h2>
   <p>my favorite and main lamgage is python. my second favorite is html/css and my third is javascript</p>
