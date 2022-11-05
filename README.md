@@ -1,7 +1,6 @@
 alr fuck it ill just make an actual readme
-<h1>William Schroeder</h1> 
-[website](/https://william-schroeder.github.io/)
-[website]()
+<h1>William Schroeder</h1>
+(https://william-schroeder.github.io)
  <p>im a programmer in middle school.</p>
 <h2>coding languages</h2>
   <p>my favorite and main lamgage is python. my second favorite is html/css and my third is javascript</p>
