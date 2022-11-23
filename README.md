@@ -3,10 +3,10 @@ alr fuck it ill just make an actual readme
 (https://william-schroeder.github.io)
  <p>im a programmer in middle school.</p>
 <h2>coding languages</h2>
-  <p>my favorite and main lamgage is python. my second favorite is html/css and my third is javascript</p>
+  <p>my favorite and main langages are python and java. my second favorite is html/css and my third is javascript</p>
   <h2> current projects</h2>
      <ul>
-  <li>i want to learn C++ or C# and java</li>
+  <li>i want to learn C++ and C# </li>
   <li>im making a rewrite of one of my old programs</li>
   <li>currently making a website and app with another person</ii>
   </ul>
