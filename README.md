@@ -1,7 +1,6 @@
-alr fuck it ill just make an actual readme
 <h1>William Schroeder</h1>
 (https://william-schroeder.github.io)
- <p>im a programmer in middle school.</p>
+ <p>Sophmore in high school.</p>
 <h2>coding languages</h2>
   <p>my favorite and main langages are python and java. my second favorite is html/css and my third is javascript</p>
   <h2> current projects</h2>
